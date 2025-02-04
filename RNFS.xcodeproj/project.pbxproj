@@ -39,6 +39,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		27C757452BD922EC00C48FEB /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		6456441F1EB8DA9100672408 /* libRNFS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNFS.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BB364CA1CDA130000435A01 /* Uploader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Uploader.h; sourceTree = "<group>"; };
 		8BB364CB1CDA130000435A01 /* Uploader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Uploader.m; sourceTree = "<group>"; };
@@ -72,6 +73,7 @@
 		F12AFB921ADAF8F800E0535D = {
 			isa = PBXGroup;
 			children = (
+				27C757452BD922EC00C48FEB /* PrivacyInfo.xcprivacy */,
 				F1EB08B91AFD0E6A008F8F2B /* NSArray+Map.h */,
 				F1EB08BA1AFD0E6A008F8F2B /* NSArray+Map.m */,
 				F1E59BDD1ADD662800ACA28A /* RNFSManager.h */,
