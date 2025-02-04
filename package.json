@@ -1,5 +1,5 @@
 {
-  "name": "react-native-fs",
+  "name": "@divvi/react-native-fs",
   "version": "2.20.0",
   "description": "Native filesystem access for react-native",
   "main": "FS.common.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:itinance/react-native-fs.git"
+    "url": "git+https@https://github.com/divvixyz/react-native-fs.git"
   },
   "keywords": [
     "react-component",
